@@ -1,0 +1,5 @@
+services:
+  seaborn:
+    build: .
+    volumes:
+      - .:/app
