@@ -101,3 +101,25 @@ Celebrity Endorsements
 ----------------------
 
 "Those are nice plots" -Hadley Wickham
+
+## Getting Started
+
+### Prerequisites
+- Python 3.8+
+
+### Install
+```bash
+pip install seaborn
+```
+
+### Development Install
+```bash
+git clone https://github.com/tim777z/seaborn.git
+cd seaborn
+pip install -e .
+```
+
+### Test
+```bash
+pytest
+```
